@@ -47,6 +47,5 @@ Report Details. This is build mostly using Artificial Intelligence.
 <br>
 <hr>
 
-Link - <a href="http://34.201.241.220:8000/">http://34.201.241.220:8000/</a>
-<hr>
+Link - <a href="http://44.211.70.37:8000/">http://44.211.70.37:8000//</a><hr>
 
